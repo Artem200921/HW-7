@@ -6,6 +6,6 @@ a{
     text-decoration: none;
 }
 
-.p1{
+ul+p{
     font-size: 24px;
 }
